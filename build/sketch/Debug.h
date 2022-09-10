@@ -1,4 +1,4 @@
-#line 1 "c:\\Users\\usuario\\Documents\\GitHub\\Deposito\\Debug.h"
+#line 1 "c:\\Users\\usuario\\Documents\\GitHub\\Depo\\Debug.h"
 /**
  * @brief Macros para poner mensajes de depuracion por serial.
  * 
@@ -15,7 +15,7 @@
 #define DEBUG_H
 #define DPRINTER Serial
 #ifndef DEBUG
-//#define DEBUG
+#define DEBUG
 #endif
 /**
  * @brief Definimos las macros si esta DEBUG activo.

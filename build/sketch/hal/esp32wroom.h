@@ -1,4 +1,4 @@
-#line 1 "c:\\Users\\usuario\\Documents\\GitHub\\Deposito\\hal\\esp32wroom.h"
+#line 1 "c:\\Users\\usuario\\Documents\\GitHub\\Depo\\hal\\esp32wroom.h"
 /**
  * @file hal\esp32wroom.h
  * @author Jose Luis Garcia Lopez (josegar1980@gmail.com)

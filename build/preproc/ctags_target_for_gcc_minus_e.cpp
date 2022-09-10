@@ -1,11 +1,10 @@
-# 1 "c:\\Users\\usuario\\Documents\\GitHub\\Deposito\\Deposito.ino"
-# 2 "c:\\Users\\usuario\\Documents\\GitHub\\Deposito\\Deposito.ino" 2
-# 3 "c:\\Users\\usuario\\Documents\\GitHub\\Deposito\\Deposito.ino" 2
-# 4 "c:\\Users\\usuario\\Documents\\GitHub\\Deposito\\Deposito.ino" 2
+# 1 "c:\\Users\\usuario\\Documents\\GitHub\\Depo\\Depo.ino"
+# 2 "c:\\Users\\usuario\\Documents\\GitHub\\Depo\\Depo.ino" 2
+# 3 "c:\\Users\\usuario\\Documents\\GitHub\\Depo\\Depo.ino" 2
+# 4 "c:\\Users\\usuario\\Documents\\GitHub\\Depo\\Depo.ino" 2
 
 
-Deposito Deposito1;
-bool config;
+Deposito deposito1;
 int data;
 
 void onRequest();
@@ -16,16 +15,16 @@ void setup()
   Wire.begin(8);
   Wire.onRequest(onRequest);
   Wire.onReceive(onReceive);
-  Deposito1.begin();
+  deposito1.begin();
 }
 
 void loop()
 {
 
-Deposito1.Control();
-if (config == true)
+deposito1.Control();
+if (data == 1)
 {
-  Deposito1.configDeposito;
+  deposito1.configDeposito;
 }
 }
 
@@ -34,6 +33,7 @@ volatile byte len = 1;
 
 void onRequest()
 {
+  // Envio de respuesta
   Wire.write(const_cast<uint8_t *>(buffer), len);
 }
 

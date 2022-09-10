@@ -1,4 +1,4 @@
-#line 1 "c:\\Users\\usuario\\Documents\\GitHub\\Deposito\\Time.h"
+#line 1 "c:\\Users\\usuario\\Documents\\GitHub\\Depo\\Time.h"
 /*
   time.h - low level time and date functions
 */

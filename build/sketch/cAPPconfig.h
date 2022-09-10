@@ -1,4 +1,4 @@
-#line 1 "c:\\Users\\usuario\\Documents\\GitHub\\Deposito\\cAPPconfig.h"
+#line 1 "c:\\Users\\usuario\\Documents\\GitHub\\Depo\\cAPPconfig.h"
 #ifndef CAPPCONFIG_H
 #define CAPPCONFIG_H
 #include <EEPROM.h>

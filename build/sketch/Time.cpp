@@ -1,4 +1,4 @@
-#line 1 "c:\\Users\\usuario\\Documents\\GitHub\\Deposito\\Time.cpp"
+#line 1 "c:\\Users\\usuario\\Documents\\GitHub\\Depo\\Time.cpp"
 /*
   time.c - low level time and date functions
   Copyright (c) Michael Margolis 2009-2014

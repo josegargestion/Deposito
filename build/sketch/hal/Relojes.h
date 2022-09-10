@@ -1,4 +1,4 @@
-#line 1 "c:\\Users\\usuario\\Documents\\GitHub\\Deposito\\hal\\Relojes.h"
+#line 1 "c:\\Users\\usuario\\Documents\\GitHub\\Depo\\hal\\Relojes.h"
 /**
  * @file hal\Relojes.h
  * @author Jose Luis Garcia Lopez (josegar1980@gmail.com)

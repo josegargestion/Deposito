@@ -1,9 +1,10 @@
-#line 1 "c:\\Users\\usuario\\Documents\\GitHub\\Deposito\\cAPPConfig.cpp"
+#line 1 "c:\\Users\\usuario\\Documents\\GitHub\\Depo\\cAPPConfig.cpp"
 #include "EEPROM.h"
 #include "configurations.h" // Guarda los datos por defecto del equipo.
-#include "debug.h"          // Necesario para las llamadas de depuración.
+#include "Debug.h"          // Necesario para las llamadas de depuración.
 #include "DHT.h"            // Control sensores DHT.
 #include "Time.h"           // Control de horas y tiempos, ademas del rtc.
+#include "hal\hal.h"		// Abstraccion de hardware.
 #include "estructuras.h"
 #include "cAPPconfig.h"
 #include <Arduino.h> // STD de arduino.

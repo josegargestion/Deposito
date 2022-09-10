@@ -1,4 +1,4 @@
-#line 1 "c:\\Users\\usuario\\Documents\\GitHub\\Deposito\\hal\\esp8266.h"
+#line 1 "c:\\Users\\usuario\\Documents\\GitHub\\Depo\\hal\\esp8266.h"
 /**
  * @file hal\esp8266.h
  * @author Jose Luis Garcia Lopez (josegar1980@gmail.com)

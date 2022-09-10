@@ -1,4 +1,4 @@
-#line 1 "c:\\Users\\usuario\\Documents\\GitHub\\Deposito\\hal\\MC23008.h"
+#line 1 "c:\\Users\\usuario\\Documents\\GitHub\\Depo\\hal\\MC23008.h"
 /**
  * @file hal\MC23008.h
  * @author Jose Luis Garcia Lopez (josegar1980@gmail.com)

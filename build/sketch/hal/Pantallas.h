@@ -1,4 +1,4 @@
-#line 1 "c:\\Users\\usuario\\Documents\\GitHub\\Deposito\\hal\\Pantallas.h"
+#line 1 "c:\\Users\\usuario\\Documents\\GitHub\\Depo\\hal\\Pantallas.h"
 /**
  * @file hal\Pantallas.h
  * @author Jose Luis Garcia Lopez (josegar1980@gmail.com)

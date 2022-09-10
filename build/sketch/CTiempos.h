@@ -1,4 +1,4 @@
-#line 1 "c:\\Users\\usuario\\Documents\\GitHub\\Deposito\\CTiempos.h"
+#line 1 "c:\\Users\\usuario\\Documents\\GitHub\\Depo\\CTiempos.h"
 /**
  * 
  * @brief Controles para gestion de tiempos.

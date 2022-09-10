@@ -1,4 +1,4 @@
-#line 1 "c:\\Users\\usuario\\Documents\\GitHub\\Deposito\\estructuras.h"
+#line 1 "c:\\Users\\usuario\\Documents\\GitHub\\Depo\\estructuras.h"
 #ifndef ESTRUCTURAS_H
 #define ESTRUCTURAS_H
 #include <Arduino.h>
@@ -132,5 +132,26 @@ struct configData_t
 	bool CalValvula;				   // Calibracion realizada.
 	uint16_t delaySelect;			   // Auxiliar de tiempos.
 	uint16_t lastSlotID;			   // Ultima casilla usada.
+};
+struct config_Deposito
+{
+	/** Pines de estado **/
+	int pinEstadoValvula;		   // Pin de la electrovalvula.
+	int pinEstadoBomba;			   // Pin de la bomba.
+	int pinEstadoSondaMaximo;	   // Pin sonda de Maximo.
+	int pinEstadoSondaMinimo;	   // Pin de la sonda de Minimo.
+	/** Pines de configuracion **/
+	int pinControlValvula;			// Pin de la electrovalvula.
+	int pinControlBomba;			// Pin de la bomba.
+	int pinControlSondaMaximo;		// Pin sonda de Maximo.
+	int pinControlSondaMinimo;		// Pin de la sonda de Minimo.
+
+};
+struct estado_Deposito
+{
+	bool EstadoSensorMax;			   // Estado sensor de maximo.
+	bool EstadoSensorMin;			   // Estado sensor de minimo.
+	bool EstadoBomba;				   // Estado de la bomba.
+	bool EstadoValvula;				   // Estado de la electrovalvula.
 };
 #endif

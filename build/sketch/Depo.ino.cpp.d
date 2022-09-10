@@ -1,6 +1,5 @@
-c:\Users\usuario\Documents\GitHub\Deposito\build\libraries\DHT_sensor_library\DHT.cpp.o: \
- C:\Users\usuario\Documents\Arduino\libraries\DHT_sensor_library\DHT.cpp \
- C:\Users\usuario\Documents\Arduino\libraries\DHT_sensor_library\DHT.h \
+c:\Users\usuario\Documents\GitHub\Depo\build\sketch\Depo.ino.cpp.o: \
+ c:\Users\usuario\Documents\GitHub\Depo\build\sketch\Depo.ino.cpp \
  C:\Users\usuario\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.3\cores\arduino/Arduino.h \
  C:\Users\usuario\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.3\cores\arduino/binary.h \
  C:\Users\usuario\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.3\cores\arduino/WCharacter.h \
@@ -12,4 +11,8 @@ c:\Users\usuario\Documents\GitHub\Deposito\build\libraries\DHT_sensor_library\DH
  C:\Users\usuario\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.3\cores\arduino/USBAPI.h \
  C:\Users\usuario\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.3\cores\arduino/Arduino.h \
  C:\Users\usuario\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.3\variants\eightanaloginputs/pins_arduino.h \
- c:\users\usuario\appdata\local\arduino15\packages\arduino\hardware\avr\1.8.3\variants\standard\pins_arduino.h
+ c:\users\usuario\appdata\local\arduino15\packages\arduino\hardware\avr\1.8.3\variants\standard\pins_arduino.h \
+ C:\Users\usuario\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.3\libraries\Wire\src/Wire.h \
+ C:\Users\usuario\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.3\cores\arduino/Stream.h \
+ c:\Users\usuario\Documents\GitHub\Depo\build\sketch\deposito.h \
+ c:\Users\usuario\Documents\GitHub\Depo\build\sketch\estructuras.h

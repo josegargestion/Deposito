@@ -10,47 +10,67 @@
     "Includepath": "C:\\Users\\usuario\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.3\\variants\\eightanaloginputs"
   },
   {
-    "Sourcefile": "c:\\Users\\usuario\\Documents\\GitHub\\Deposito\\build\\sketch\\Deposito.ino.cpp",
+    "Sourcefile": "c:\\Users\\usuario\\Documents\\GitHub\\Depo\\build\\sketch\\Depo.ino.cpp",
     "Include": "Wire.h",
     "Includepath": "C:\\Users\\usuario\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.3\\libraries\\Wire\\src"
   },
   {
-    "Sourcefile": "c:\\Users\\usuario\\Documents\\GitHub\\Deposito\\build\\sketch\\Deposito.ino.cpp",
+    "Sourcefile": "c:\\Users\\usuario\\Documents\\GitHub\\Depo\\build\\sketch\\Depo.ino.cpp",
     "Include": "",
     "Includepath": null
   },
   {
-    "Sourcefile": "c:\\Users\\usuario\\Documents\\GitHub\\Deposito\\build\\sketch\\CTiempos.cpp",
-    "Include": "DHT.h",
-    "Includepath": "C:\\Users\\usuario\\Documents\\Arduino\\libraries\\DHT_sensor_library"
-  },
-  {
-    "Sourcefile": "c:\\Users\\usuario\\Documents\\GitHub\\Deposito\\build\\sketch\\CTiempos.cpp",
+    "Sourcefile": "c:\\Users\\usuario\\Documents\\GitHub\\Depo\\build\\sketch\\CTiempos.cpp",
     "Include": "",
     "Includepath": null
   },
   {
-    "Sourcefile": "c:\\Users\\usuario\\Documents\\GitHub\\Deposito\\build\\sketch\\Time.cpp",
+    "Sourcefile": "c:\\Users\\usuario\\Documents\\GitHub\\Depo\\build\\sketch\\DHT.cpp",
     "Include": "",
     "Includepath": null
   },
   {
-    "Sourcefile": "c:\\Users\\usuario\\Documents\\GitHub\\Deposito\\build\\sketch\\cAPPConfig.cpp",
+    "Sourcefile": "c:\\Users\\usuario\\Documents\\GitHub\\Depo\\build\\sketch\\Time.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\usuario\\Documents\\GitHub\\Depo\\build\\sketch\\ambiente.cpp",
     "Include": "EEPROM.h",
     "Includepath": "C:\\Users\\usuario\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.3\\libraries\\EEPROM\\src"
   },
   {
-    "Sourcefile": "c:\\Users\\usuario\\Documents\\GitHub\\Deposito\\build\\sketch\\cAPPConfig.cpp",
+    "Sourcefile": "c:\\Users\\usuario\\Documents\\GitHub\\Depo\\build\\sketch\\ambiente.cpp",
     "Include": "",
     "Includepath": null
   },
   {
-    "Sourcefile": "c:\\Users\\usuario\\Documents\\GitHub\\Deposito\\build\\sketch\\deposito.cpp",
+    "Sourcefile": "c:\\Users\\usuario\\Documents\\GitHub\\Depo\\build\\sketch\\cAPPConfig.cpp",
     "Include": "",
     "Includepath": null
   },
   {
-    "Sourcefile": "c:\\Users\\usuario\\Documents\\GitHub\\Deposito\\build\\sketch\\hardware.cpp",
+    "Sourcefile": "c:\\Users\\usuario\\Documents\\GitHub\\Depo\\build\\sketch\\comms.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\usuario\\Documents\\GitHub\\Depo\\build\\sketch\\deposito.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\usuario\\Documents\\GitHub\\Depo\\build\\sketch\\hardware.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\usuario\\Documents\\GitHub\\Depo\\build\\sketch\\iluminacion.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\usuario\\Documents\\GitHub\\Depo\\build\\sketch\\invernadero.cpp",
     "Include": "",
     "Includepath": null
   },
@@ -61,16 +81,6 @@
   },
   {
     "Sourcefile": "C:\\Users\\usuario\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.3\\libraries\\Wire\\src\\utility\\twi.c",
-    "Include": "",
-    "Includepath": null
-  },
-  {
-    "Sourcefile": "C:\\Users\\usuario\\Documents\\Arduino\\libraries\\DHT_sensor_library\\DHT.cpp",
-    "Include": "",
-    "Includepath": null
-  },
-  {
-    "Sourcefile": "C:\\Users\\usuario\\Documents\\Arduino\\libraries\\DHT_sensor_library\\DHT_U.cpp",
     "Include": "",
     "Includepath": null
   }

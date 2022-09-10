@@ -1,4 +1,4 @@
-c:\Users\usuario\Documents\GitHub\Deposito\build\core\USBCore.cpp.o: \
+c:\Users\usuario\Documents\GitHub\Depo\build\core\USBCore.cpp.o: \
  C:\Users\usuario\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.3\cores\arduino\USBCore.cpp \
  C:\Users\usuario\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.3\cores\arduino\USBAPI.h \
  C:\Users\usuario\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.3\cores\arduino\Arduino.h \
